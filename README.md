@@ -1,2 +1,2 @@
 # Code-Problems
-A place to put solutions to various code problems I work through
+A place to put solutions to the various code problems I am going to work through.
